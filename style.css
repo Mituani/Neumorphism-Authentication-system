@@ -52,6 +52,11 @@ body{
 }
 .field:nth-child(2){
     margin-top: 20px;
+    margin-bottom: 20px;
+}
+.field:nth-child(3){
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .field span{
     position: absolute;
@@ -121,4 +126,8 @@ button:focus{
     border-radius: 50% !important;
     box-shadow:  2px 2px 5px #babecc,
                  -5px -5px 10px #ffffff73;
+}
+.mb-4{
+    margin-top: 4px;
+    margin-bottom: 4px;
 }

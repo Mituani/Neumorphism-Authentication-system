@@ -127,7 +127,3 @@ button:focus{
     box-shadow:  2px 2px 5px #babecc,
                  -5px -5px 10px #ffffff73;
 }
-.mb-4{
-    margin-top: 4px;
-    margin-bottom: 4px;
-}
